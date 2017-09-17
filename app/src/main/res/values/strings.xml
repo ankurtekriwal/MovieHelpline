@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Helpline</string>
+    <string name="setting_name">Settings</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="favourites">Favourites</string>
+    <string name="pref_sort_by_key">sort_by</string>
+    <string name="pref_sort_by_default">popular</string>
+</resources>

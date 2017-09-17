@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d8bfd8"
+    android:weightSum="1">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:text="tv_reviewMovieName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/tv_reviewMovieName"
+        android:textStyle="normal|bold"
+        android:textSize="24sp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="Review-1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev1"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="tv_reviewAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/tv_reviewAuthor" />
+
+    <TextView
+        android:text="tv_review"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/tv_review"
+        android:fontFamily="serif" />
+
+    <TextView
+        android:text="Review-2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_2"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_author_2" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_content_2" />
+
+    <TextView
+        android:text="Review-3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_3"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_author_3" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_rev_content_3" />
+
+</LinearLayout>
+</ScrollView>

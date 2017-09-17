@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_movie">
+        <item>@string/popular</item>
+        <item>@string/top_rated</item>
+        <item>@string/favourites</item>
+    </string-array>
+    <string-array name="pref_movie_opt">
+        <item>@string/popular</item>
+        <item>@string/top_rated</item>
+        <item>@string/favourites</item>
+    </string-array>
+
+</resources>
